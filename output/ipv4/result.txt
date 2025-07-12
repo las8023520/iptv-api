@@ -1,6 +1,4 @@
 🕘️更新时间,#genre#
-2025-07-12 06:17:20,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
+2025-07-12 18:16:10,url
 
 央视频道,#genre#
-CCTV-3,http://1b6467f415.iok.la:9931/tsfile/live/1022_1.m3u8
-CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8

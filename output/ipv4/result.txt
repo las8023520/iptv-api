@@ -1,6 +1,9 @@
 🕘️更新时间,#genre#
-2025-07-14 18:20:01,http://nas.hssvm.com:8888/udp/225.1.1.150:5002
+2025-07-15 06:17:54,http://3501776.xyz:35455/gaoma/cctv1.m3u8
 
 央视频道,#genre#
+CCTV-1,http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV-2,http://3501776.xyz:35455/gaoma/cctv2.m3u8
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://nas.hssvm.com:8888/udp/225.1.1.150:5002
-CCTV-4,http://183.11.239.36:808/hls/67/index.m3u8
+CCTV-5,http://3501776.xyz:35455/gaoma/cctv5.m3u8

@@ -1,9 +1,6 @@
 🕘️更新时间,#genre#
-2025-07-20 18:17:19,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2025-07-21 06:17:08,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV-3,http://123.129.70.178:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8
